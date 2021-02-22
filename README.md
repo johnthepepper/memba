@@ -1,5 +1,3 @@
-
-GNU nano 5.5                                  README.md
 # memba :snake:
 ## memba is information gathering tool for subdomains and dns addresses :detective: :eye:
 ```
