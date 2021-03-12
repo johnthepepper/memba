@@ -8,4 +8,5 @@ python memba.py
 ```
 root@kali~$ python memba.py -u example.com
 memba.example.com 129.29.29.39
+...bla bla bla
 ```
